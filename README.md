@@ -42,11 +42,5 @@ This project provides an automated trading system for the OANDA forex trading pl
     python main.py
     ```
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any questions or support, please open an issue on the GitHub repository or contact the project maintainer at your.email@example.com.
